@@ -1,0 +1,501 @@
+order_id,customer_name,product,category,quantity,price_per_unit,order_date,region,payment_method,total_price
+ORD1000,Gary Pitts,Phone,Electronics,4,400,15/10/2024,Basse,Mobile Money,1600
+ORD1001,Stephen Massey,Mouse,Accessories,2,30,07/03/2025,Basse,Credit Card,60
+ORD1002,Theresa Perez,Tablet,Electronics,2,300,26/11/2024,Brikama,Mobile Money,600
+ORD1003,Morgan Humphrey,Laptop,Electronics,5,700,10/05/2025,Soma,Bank Transfer,3500
+ORD1004,Faith Johnson,Mouse,Accessories,4,30,20/08/2024,Basse,Credit Card,120
+ORD1005,Lisa Baxter,Tablet,Electronics,5,300,05/01/2025,Kanifing,Bank Transfer,1500
+ORD1006,Marcia Williams,Phone,Electronics,5,400,28/02/2025,Banjul,Credit Card,2000
+ORD1007,Heather Brown,Phone,Electronics,5,400,15/12/2024,Kanifing,Mobile Money,2000
+ORD1008,Brenda Watts,Monitor,Electronics,5,200,29/08/2024,Soma,Bank Transfer,1000
+ORD1009,Nicole Little,Mouse,Accessories,2,30,18/05/2025,Kanifing,Mobile Money,60
+ORD1010,John Hall,Laptop,Electronics,5,700,15/01/2025,Banjul,Mobile Money,3500
+ORD1011,Todd Roy,Phone,Electronics,1,400,13/03/2025,Kanifing,Credit Card,400
+ORD1012,Curtis Gutierrez,Mouse,Accessories,3,30,12/05/2025,Basse,Mobile Money,90
+ORD1013,Catherine Monroe,Phone,Electronics,5,400,06/08/2024,Brikama,Credit Card,2000
+ORD1014,Brian Huff,Headphones,Accessories,3,100,02/09/2024,Brikama,Cash on Delivery,300
+ORD1015,Tyler Jenkins,Phone,Electronics,1,400,26/06/2025,Basse,Bank Transfer,400
+ORD1016,Jimmy Kim,Tablet,Electronics,5,300,07/05/2025,Kanifing,Mobile Money,1500
+ORD1017,Joseph Sherman,Phone,Electronics,5,400,06/12/2024,Basse,Credit Card,2000
+ORD1018,Amber Mcdonald,Headphones,Accessories,5,100,18/07/2024,Kanifing,Mobile Money,500
+ORD1019,Monica Thompson,Laptop,Electronics,3,700,09/05/2025,Brikama,Credit Card,2100
+ORD1020,Joan Grant,Mouse,Accessories,5,30,19/01/2025,Brikama,Credit Card,150
+ORD1021,Kayla Williams,Phone,Electronics,3,400,21/08/2024,Basse,Cash on Delivery,1200
+ORD1022,Marissa Cox,Headphones,Accessories,2,100,28/08/2024,Soma,Cash on Delivery,200
+ORD1023,Matthew Rich,Headphones,Accessories,3,100,16/07/2024,Kanifing,Bank Transfer,300
+ORD1024,Harry Pitts,Tablet,Electronics,4,300,11/11/2024,Brikama,Bank Transfer,1200
+ORD1025,Collin Kennedy,Headphones,Accessories,1,100,03/10/2024,Banjul,Mobile Money,100
+ORD1026,James Drake,Tablet,Electronics,5,300,18/04/2025,Basse,Cash on Delivery,1500
+ORD1027,John Lee,Monitor,Electronics,5,200,29/05/2025,Brikama,Credit Card,1000
+ORD1028,Ashley Ramirez,Monitor,Electronics,4,200,20/10/2024,Soma,Bank Transfer,800
+ORD1029,Crystal Horn,Headphones,Accessories,4,100,19/09/2024,Brikama,Cash on Delivery,400
+ORD1030,Savannah Cross,Phone,Electronics,4,400,30/12/2024,Brikama,Credit Card,1600
+ORD1031,Mr. Mitchell Lopez,Headphones,Accessories,3,100,26/03/2025,Brikama,Bank Transfer,300
+ORD1032,Lindsay Williams,Keyboard,Accessories,4,50,22/06/2025,Banjul,Cash on Delivery,200
+ORD1033,Tina Hopkins,Mouse,Accessories,5,30,29/03/2025,Brikama,Cash on Delivery,150
+ORD1034,Cindy Brown,Mouse,Accessories,1,30,22/06/2025,Soma,Bank Transfer,30
+ORD1035,Kelly Lewis,Phone,Electronics,2,400,16/09/2024,Soma,Bank Transfer,800
+ORD1036,Pamela Jacobson,Monitor,Electronics,3,200,27/09/2024,Banjul,Credit Card,600
+ORD1037,Gabriel Pittman,Headphones,Accessories,3,100,18/08/2024,Basse,Mobile Money,300
+ORD1038,Nicole Thomas,Tablet,Electronics,1,300,07/05/2025,Soma,Mobile Money,300
+ORD1039,Jacob Martinez,Headphones,Accessories,4,100,24/03/2025,Soma,Credit Card,400
+ORD1040,Stephanie Silva,Keyboard,Accessories,3,50,23/10/2024,Brikama,Bank Transfer,150
+ORD1041,Kristin Singh,Tablet,Electronics,5,300,08/09/2024,Brikama,Bank Transfer,1500
+ORD1042,Jeffrey Ruiz,Laptop,Electronics,5,700,30/12/2024,Kanifing,Bank Transfer,3500
+ORD1043,Anthony Reeves,Tablet,Electronics,2,300,10/11/2024,Banjul,Mobile Money,600
+ORD1044,Andres Herrera,Headphones,Accessories,1,100,19/07/2024,Basse,Mobile Money,100
+ORD1045,Collin Gomez,Laptop,Electronics,3,700,06/08/2024,Banjul,Cash on Delivery,2100
+ORD1046,Todd Nicholson,Phone,Electronics,5,400,22/01/2025,Soma,Credit Card,2000
+ORD1047,Cameron Thompson,Laptop,Electronics,2,700,13/09/2024,Basse,Bank Transfer,1400
+ORD1048,Mary Powers,Headphones,Accessories,5,100,11/11/2024,Basse,Credit Card,500
+ORD1049,Miss Maria Mueller DDS,Phone,Electronics,2,400,16/11/2024,Basse,Mobile Money,800
+ORD1050,Stephen Nelson,Laptop,Electronics,5,700,22/11/2024,Brikama,Bank Transfer,3500
+ORD1051,Brenda Hopkins,Phone,Electronics,2,400,01/08/2024,Soma,Credit Card,800
+ORD1052,Anthony Booker MD,Keyboard,Accessories,5,50,21/06/2025,Soma,Bank Transfer,250
+ORD1053,Matthew Miller,Laptop,Electronics,4,700,13/06/2025,Soma,Bank Transfer,2800
+ORD1054,Riley Wilson,Tablet,Electronics,2,300,28/09/2024,Brikama,Bank Transfer,600
+ORD1055,Frank Graves,Headphones,Accessories,3,100,10/04/2025,Kanifing,Bank Transfer,300
+ORD1056,Christopher Jordan,Phone,Electronics,4,400,30/08/2024,Brikama,Credit Card,1600
+ORD1057,Bradley Scott,Keyboard,Accessories,4,50,17/04/2025,Soma,Cash on Delivery,200
+ORD1058,Christina Jones,Keyboard,Accessories,5,50,30/05/2025,Kanifing,Credit Card,250
+ORD1059,Kayla Mueller,Laptop,Electronics,4,700,07/01/2025,Banjul,Bank Transfer,2800
+ORD1060,Carolyn Mccoy,Monitor,Electronics,5,200,21/02/2025,Banjul,Credit Card,1000
+ORD1061,Shane Deleon,Monitor,Electronics,3,200,30/05/2025,Soma,Bank Transfer,600
+ORD1062,Dr. Carol Boyle,Laptop,Electronics,4,700,23/06/2025,Basse,Credit Card,2800
+ORD1063,Kelly Anderson,Tablet,Electronics,1,300,19/03/2025,Brikama,Cash on Delivery,300
+ORD1064,Scott Cooper,Keyboard,Accessories,2,50,26/09/2024,Basse,Credit Card,100
+ORD1065,Patricia Espinoza,Mouse,Accessories,2,30,25/05/2025,Soma,Mobile Money,60
+ORD1066,Amanda Hernandez MD,Mouse,Accessories,4,30,11/05/2025,Banjul,Credit Card,120
+ORD1067,Daniel Tucker,Headphones,Accessories,2,100,29/12/2024,Basse,Credit Card,200
+ORD1068,Brenda Best,Tablet,Electronics,4,300,08/05/2025,Soma,Cash on Delivery,1200
+ORD1069,Lucas Becker,Phone,Electronics,4,400,13/07/2024,Basse,Mobile Money,1600
+ORD1070,Amber Spencer,Mouse,Accessories,1,30,06/02/2025,Banjul,Bank Transfer,30
+ORD1071,Joseph James,Monitor,Electronics,4,200,21/06/2025,Basse,Mobile Money,800
+ORD1072,Michael Kelly,Headphones,Accessories,1,100,10/08/2024,Banjul,Bank Transfer,100
+ORD1073,Crystal Gomez,Monitor,Electronics,1,200,10/02/2025,Soma,Bank Transfer,200
+ORD1074,Jeffrey Cooper MD,Keyboard,Accessories,4,50,15/03/2025,Brikama,Bank Transfer,200
+ORD1075,Jimmy Baker,Laptop,Electronics,1,700,11/10/2024,Brikama,Bank Transfer,700
+ORD1076,Andrew Douglas,Headphones,Accessories,2,100,31/05/2025,Basse,Mobile Money,200
+ORD1077,Danielle Robinson,Phone,Electronics,1,400,15/05/2025,Banjul,Bank Transfer,400
+ORD1078,Crystal Morrow,Monitor,Electronics,1,200,01/07/2024,Kanifing,Credit Card,200
+ORD1079,Robin Vazquez,Laptop,Electronics,5,700,17/04/2025,Brikama,Credit Card,3500
+ORD1080,Thomas Cooper,Tablet,Electronics,1,300,08/05/2025,Banjul,Credit Card,300
+ORD1081,Daniel Roth,Tablet,Electronics,4,300,15/03/2025,Basse,Cash on Delivery,1200
+ORD1082,Jennifer Cook,Mouse,Accessories,3,30,08/06/2025,Brikama,Mobile Money,90
+ORD1083,Paul Mooney,Keyboard,Accessories,5,50,11/10/2024,Brikama,Credit Card,250
+ORD1084,Nicole Davila,Phone,Electronics,1,400,23/08/2024,Brikama,Mobile Money,400
+ORD1085,Michael Smith,Mouse,Accessories,5,30,25/10/2024,Basse,Cash on Delivery,150
+ORD1086,Jeffrey Huffman,Mouse,Accessories,5,30,22/09/2024,Brikama,Mobile Money,150
+ORD1087,Heather Myers,Tablet,Electronics,3,300,03/07/2024,Kanifing,Bank Transfer,900
+ORD1088,Laura Phillips,Headphones,Accessories,5,100,22/09/2024,Kanifing,Bank Transfer,500
+ORD1089,Karen Conway,Keyboard,Accessories,2,50,03/01/2025,Soma,Mobile Money,100
+ORD1090,Jennifer Glover,Keyboard,Accessories,4,50,21/07/2024,Soma,Bank Transfer,200
+ORD1091,Derek Mullen,Tablet,Electronics,4,300,10/02/2025,Soma,Bank Transfer,1200
+ORD1092,Steven Franco,Keyboard,Accessories,3,50,24/12/2024,Brikama,Bank Transfer,150
+ORD1093,Lori Galvan,Mouse,Accessories,5,30,31/07/2024,Brikama,Credit Card,150
+ORD1094,Noah Jones,Phone,Electronics,1,400,11/12/2024,Brikama,Credit Card,400
+ORD1095,Sierra Lin,Mouse,Accessories,1,30,13/05/2025,Banjul,Cash on Delivery,30
+ORD1096,Megan Miller,Mouse,Accessories,5,30,08/03/2025,Banjul,Cash on Delivery,150
+ORD1097,Gregory Bishop,Monitor,Electronics,2,200,02/09/2024,Basse,Cash on Delivery,400
+ORD1098,Andrea Rosario,Tablet,Electronics,2,300,01/01/2025,Basse,Cash on Delivery,600
+ORD1099,Ronald Daniels,Monitor,Electronics,3,200,28/09/2024,Basse,Credit Card,600
+ORD1100,Donna Martinez,Phone,Electronics,3,400,02/01/2025,Banjul,Credit Card,1200
+ORD1101,Andrea Mason,Mouse,Accessories,5,30,14/05/2025,Basse,Bank Transfer,150
+ORD1102,Jonathan Morgan,Tablet,Electronics,5,300,31/01/2025,Brikama,Credit Card,1500
+ORD1103,Francisco Gray,Mouse,Accessories,4,30,19/10/2024,Basse,Bank Transfer,120
+ORD1104,Jennifer Downs,Monitor,Electronics,2,200,14/03/2025,Kanifing,Bank Transfer,400
+ORD1105,Janice Curry,Laptop,Electronics,5,700,01/01/2025,Kanifing,Cash on Delivery,3500
+ORD1106,Mark Johnston,Monitor,Electronics,2,200,28/10/2024,Basse,Credit Card,400
+ORD1107,Colleen Ramsey,Mouse,Accessories,3,30,01/09/2024,Banjul,Mobile Money,90
+ORD1108,Karen Mcgee,Laptop,Electronics,3,700,10/12/2024,Soma,Credit Card,2100
+ORD1109,Tara Brown,Tablet,Electronics,3,300,28/05/2025,Soma,Bank Transfer,900
+ORD1110,Scott Oneill,Keyboard,Accessories,3,50,23/06/2025,Kanifing,Mobile Money,150
+ORD1111,David Lewis,Phone,Electronics,2,400,02/03/2025,Soma,Bank Transfer,800
+ORD1112,Carrie James,Phone,Electronics,3,400,16/02/2025,Banjul,Bank Transfer,1200
+ORD1113,Larry Bean,Phone,Electronics,3,400,28/08/2024,Banjul,Credit Card,1200
+ORD1114,Mrs. Katherine Mccall,Laptop,Electronics,4,700,05/10/2024,Brikama,Mobile Money,2800
+ORD1115,Christopher Cunningham,Keyboard,Accessories,5,50,06/09/2024,Brikama,Mobile Money,250
+ORD1116,Joshua Colon,Keyboard,Accessories,3,50,27/06/2025,Brikama,Cash on Delivery,150
+ORD1117,Christopher Cohen,Headphones,Accessories,5,100,22/08/2024,Basse,Cash on Delivery,500
+ORD1118,Ronald Richardson,Mouse,Accessories,2,30,12/05/2025,Basse,Cash on Delivery,60
+ORD1119,Richard Charles,Mouse,Accessories,2,30,27/03/2025,Kanifing,Cash on Delivery,60
+ORD1120,Kelsey Morgan,Phone,Electronics,4,400,07/07/2024,Soma,Bank Transfer,1600
+ORD1121,Kevin Edwards,Monitor,Electronics,3,200,07/09/2024,Brikama,Credit Card,600
+ORD1122,Kristen Gibson,Keyboard,Accessories,1,50,18/11/2024,Banjul,Credit Card,50
+ORD1123,Jon Serrano,Headphones,Accessories,1,100,26/07/2024,Soma,Credit Card,100
+ORD1124,Wanda Gonzalez,Phone,Electronics,5,400,08/12/2024,Kanifing,Cash on Delivery,2000
+ORD1125,Paula Jones,Keyboard,Accessories,4,50,17/03/2025,Soma,Cash on Delivery,200
+ORD1126,Andrea Miller,Headphones,Accessories,3,100,25/08/2024,Basse,Bank Transfer,300
+ORD1127,Bradley Adams,Tablet,Electronics,1,300,24/07/2024,Kanifing,Credit Card,300
+ORD1128,Jeffrey Wilson,Monitor,Electronics,1,200,26/02/2025,Kanifing,Credit Card,200
+ORD1129,Gabriella Horton,Phone,Electronics,3,400,22/10/2024,Brikama,Credit Card,1200
+ORD1130,Sarah Patel,Tablet,Electronics,3,300,05/04/2025,Banjul,Mobile Money,900
+ORD1131,Destiny Blake,Mouse,Accessories,1,30,13/01/2025,Brikama,Bank Transfer,30
+ORD1132,Katherine Hubbard,Laptop,Electronics,2,700,09/05/2025,Kanifing,Mobile Money,1400
+ORD1133,Darlene Watson,Monitor,Electronics,5,200,08/08/2024,Banjul,Bank Transfer,1000
+ORD1134,Wesley Richardson,Laptop,Electronics,4,700,14/06/2025,Banjul,Cash on Delivery,2800
+ORD1135,Holly Valentine,Mouse,Accessories,1,30,25/07/2024,Soma,Cash on Delivery,30
+ORD1136,Sonia Coleman,Monitor,Electronics,3,200,25/01/2025,Basse,Mobile Money,600
+ORD1137,Kevin Mora,Mouse,Accessories,4,30,20/10/2024,Basse,Bank Transfer,120
+ORD1138,Christina Pham MD,Monitor,Electronics,4,200,26/03/2025,Brikama,Bank Transfer,800
+ORD1139,Andrea Odonnell,Keyboard,Accessories,2,50,30/07/2024,Basse,Bank Transfer,100
+ORD1140,Cory Sparks,Laptop,Electronics,3,700,17/06/2025,Soma,Mobile Money,2100
+ORD1141,Tony Clements,Tablet,Electronics,3,300,13/03/2025,Kanifing,Credit Card,900
+ORD1142,Bethany Rios,Monitor,Electronics,1,200,01/02/2025,Banjul,Bank Transfer,200
+ORD1143,Tara Ward,Headphones,Accessories,4,100,07/06/2025,Banjul,Credit Card,400
+ORD1144,Wanda Ryan,Mouse,Accessories,1,30,29/12/2024,Brikama,Credit Card,30
+ORD1145,Kenneth Wyatt,Laptop,Electronics,5,700,11/08/2024,Soma,Bank Transfer,3500
+ORD1146,Jose Ballard,Mouse,Accessories,2,30,04/04/2025,Brikama,Cash on Delivery,60
+ORD1147,Michelle Clark,Mouse,Accessories,4,30,09/04/2025,Brikama,Bank Transfer,120
+ORD1148,Daniel Brown,Monitor,Electronics,4,200,22/01/2025,Kanifing,Bank Transfer,800
+ORD1149,Rhonda Boyd,Headphones,Accessories,5,100,12/10/2024,Basse,Bank Transfer,500
+ORD1150,Melinda Olson,Mouse,Accessories,4,30,20/02/2025,Banjul,Credit Card,120
+ORD1151,Joseph Moore,Monitor,Electronics,1,200,07/12/2024,Banjul,Cash on Delivery,200
+ORD1152,Mark Abbott,Laptop,Electronics,3,700,13/10/2024,Kanifing,Cash on Delivery,2100
+ORD1153,Gloria Stephens,Mouse,Accessories,5,30,11/02/2025,Brikama,Cash on Delivery,150
+ORD1154,Charles Brown,Monitor,Electronics,1,200,30/11/2024,Banjul,Cash on Delivery,200
+ORD1155,Joel Martinez,Laptop,Electronics,3,700,04/07/2024,Brikama,Credit Card,2100
+ORD1156,Kimberly Daniels,Headphones,Accessories,1,100,26/12/2024,Basse,Cash on Delivery,100
+ORD1157,William Morgan,Monitor,Electronics,3,200,08/01/2025,Basse,Bank Transfer,600
+ORD1158,Donald Rodriguez,Tablet,Electronics,2,300,07/12/2024,Banjul,Cash on Delivery,600
+ORD1159,Catherine Johnson,Phone,Electronics,3,400,27/05/2025,Brikama,Cash on Delivery,1200
+ORD1160,Melissa Andrade,Monitor,Electronics,3,200,20/03/2025,Banjul,Credit Card,600
+ORD1161,Rachel Fuller DDS,Phone,Electronics,3,400,20/07/2024,Banjul,Credit Card,1200
+ORD1162,Ashley Reid,Tablet,Electronics,1,300,08/09/2024,Banjul,Bank Transfer,300
+ORD1163,Brandon Dixon,Keyboard,Accessories,1,50,16/06/2025,Brikama,Credit Card,50
+ORD1164,Wanda Clark,Phone,Electronics,3,400,07/06/2025,Basse,Cash on Delivery,1200
+ORD1165,Kevin Hernandez,Monitor,Electronics,5,200,14/04/2025,Brikama,Mobile Money,1000
+ORD1166,Anne Williams,Laptop,Electronics,2,700,21/03/2025,Kanifing,Bank Transfer,1400
+ORD1167,Jonathan Webb,Headphones,Accessories,3,100,02/12/2024,Brikama,Credit Card,300
+ORD1168,Shannon Johnson,Tablet,Electronics,3,300,02/10/2024,Banjul,Bank Transfer,900
+ORD1169,Eric Barber,Laptop,Electronics,4,700,23/05/2025,Basse,Bank Transfer,2800
+ORD1170,Johnathan Jones,Monitor,Electronics,4,200,20/04/2025,Kanifing,Mobile Money,800
+ORD1171,Kim James,Headphones,Accessories,1,100,02/11/2024,Basse,Bank Transfer,100
+ORD1172,Jacob Garrison,Tablet,Electronics,2,300,27/05/2025,Banjul,Mobile Money,600
+ORD1173,Linda Meyer,Tablet,Electronics,1,300,25/05/2025,Soma,Cash on Delivery,300
+ORD1174,Gregory Ward,Tablet,Electronics,3,300,18/10/2024,Basse,Credit Card,900
+ORD1175,Ann Rivera,Laptop,Electronics,1,700,28/06/2025,Kanifing,Bank Transfer,700
+ORD1176,Jesse Vasquez,Headphones,Accessories,5,100,11/12/2024,Brikama,Credit Card,500
+ORD1177,April Norton MD,Monitor,Electronics,1,200,12/04/2025,Banjul,Bank Transfer,200
+ORD1178,Scott Gallegos,Laptop,Electronics,3,700,18/10/2024,Banjul,Mobile Money,2100
+ORD1179,Amanda Hobbs,Tablet,Electronics,2,300,21/09/2024,Brikama,Mobile Money,600
+ORD1180,Carol Jacobs,Headphones,Accessories,2,100,10/06/2025,Banjul,Bank Transfer,200
+ORD1181,Robert Waller,Monitor,Electronics,5,200,14/11/2024,Banjul,Cash on Delivery,1000
+ORD1182,Christine Erickson,Laptop,Electronics,4,700,03/06/2025,Basse,Credit Card,2800
+ORD1183,Richard Rogers,Monitor,Electronics,1,200,30/05/2025,Soma,Bank Transfer,200
+ORD1184,Travis Schwartz,Tablet,Electronics,1,300,05/05/2025,Banjul,Bank Transfer,300
+ORD1185,Cody Burns,Mouse,Accessories,3,30,11/03/2025,Kanifing,Mobile Money,90
+ORD1186,Amanda Hebert,Keyboard,Accessories,1,50,19/12/2024,Brikama,Credit Card,50
+ORD1187,Desiree Malone,Keyboard,Accessories,5,50,31/03/2025,Soma,Cash on Delivery,250
+ORD1188,Alejandra Moore,Keyboard,Accessories,3,50,02/03/2025,Basse,Cash on Delivery,150
+ORD1189,Seth Herring,Monitor,Electronics,3,200,20/11/2024,Brikama,Bank Transfer,600
+ORD1190,Gregory Zhang,Laptop,Electronics,3,700,13/09/2024,Basse,Bank Transfer,2100
+ORD1191,Andrew Aguilar,Monitor,Electronics,3,200,23/09/2024,Basse,Cash on Delivery,600
+ORD1192,Kyle Moreno,Phone,Electronics,3,400,30/04/2025,Banjul,Cash on Delivery,1200
+ORD1193,Angel Sharp,Laptop,Electronics,3,700,10/05/2025,Kanifing,Bank Transfer,2100
+ORD1194,Kurt Carter,Monitor,Electronics,4,200,15/07/2024,Kanifing,Mobile Money,800
+ORD1195,Stacie Baker,Monitor,Electronics,4,200,23/08/2024,Soma,Cash on Delivery,800
+ORD1196,Bryce Marsh,Phone,Electronics,5,400,15/02/2025,Brikama,Credit Card,2000
+ORD1197,Ashley Mullen,Headphones,Accessories,1,100,19/09/2024,Soma,Cash on Delivery,100
+ORD1198,Michael Mann,Tablet,Electronics,4,300,05/06/2025,Kanifing,Mobile Money,1200
+ORD1199,Robert Williams,Laptop,Electronics,4,700,16/06/2025,Soma,Mobile Money,2800
+ORD1200,Eduardo Herrera,Mouse,Accessories,2,30,07/10/2024,Banjul,Bank Transfer,60
+ORD1201,James Martinez,Laptop,Electronics,5,700,22/02/2025,Basse,Credit Card,3500
+ORD1202,Jeanne Padilla,Phone,Electronics,4,400,26/09/2024,Brikama,Mobile Money,1600
+ORD1203,Sara Patel,Laptop,Electronics,5,700,19/05/2025,Basse,Cash on Delivery,3500
+ORD1204,Jennifer Santana,Monitor,Electronics,5,200,25/11/2024,Soma,Cash on Delivery,1000
+ORD1205,John Henry,Laptop,Electronics,3,700,06/03/2025,Brikama,Bank Transfer,2100
+ORD1206,Brian Rogers,Phone,Electronics,2,400,11/05/2025,Soma,Mobile Money,800
+ORD1207,Nicholas Ochoa,Keyboard,Accessories,2,50,26/07/2024,Basse,Mobile Money,100
+ORD1208,Jennifer Morse,Phone,Electronics,3,400,25/11/2024,Soma,Credit Card,1200
+ORD1209,John Baxter,Mouse,Accessories,2,30,14/02/2025,Brikama,Cash on Delivery,60
+ORD1210,Colleen Bond,Laptop,Electronics,3,700,31/01/2025,Kanifing,Credit Card,2100
+ORD1211,Sandra Roberts,Monitor,Electronics,3,200,26/07/2024,Soma,Mobile Money,600
+ORD1212,Lisa Vargas,Laptop,Electronics,4,700,06/01/2025,Banjul,Credit Card,2800
+ORD1213,Benjamin Taylor,Monitor,Electronics,2,200,24/02/2025,Banjul,Credit Card,400
+ORD1214,Amanda Evans,Headphones,Accessories,5,100,28/10/2024,Kanifing,Cash on Delivery,500
+ORD1215,Ms. Deborah Johnson,Keyboard,Accessories,4,50,31/12/2024,Banjul,Bank Transfer,200
+ORD1216,Christopher Robles,Keyboard,Accessories,4,50,13/08/2024,Soma,Cash on Delivery,200
+ORD1217,Luke Mccarthy,Phone,Electronics,2,400,21/08/2024,Banjul,Cash on Delivery,800
+ORD1218,Stephen Hanson,Headphones,Accessories,2,100,16/02/2025,Kanifing,Bank Transfer,200
+ORD1219,Cynthia Carpenter,Mouse,Accessories,5,30,27/07/2024,Basse,Cash on Delivery,150
+ORD1220,Stephanie Palmer,Phone,Electronics,1,400,23/05/2025,Kanifing,Credit Card,400
+ORD1221,Ryan Moore,Keyboard,Accessories,5,50,17/03/2025,Soma,Bank Transfer,250
+ORD1222,Katie Rodriguez,Tablet,Electronics,1,300,22/10/2024,Banjul,Cash on Delivery,300
+ORD1223,Julie Salazar,Keyboard,Accessories,2,50,20/03/2025,Brikama,Credit Card,100
+ORD1224,Wayne Griffith,Phone,Electronics,4,400,19/08/2024,Soma,Mobile Money,1600
+ORD1225,Kathryn Munoz,Mouse,Accessories,1,30,11/09/2024,Soma,Mobile Money,30
+ORD1226,Lisa Brown,Phone,Electronics,4,400,17/02/2025,Banjul,Cash on Delivery,1600
+ORD1227,Michael Wu,Monitor,Electronics,2,200,07/12/2024,Soma,Mobile Money,400
+ORD1228,Keith Saunders,Headphones,Accessories,4,100,03/06/2025,Brikama,Credit Card,400
+ORD1229,Timothy Hansen,Mouse,Accessories,2,30,22/12/2024,Basse,Mobile Money,60
+ORD1230,Jennifer Anderson,Mouse,Accessories,4,30,23/03/2025,Banjul,Credit Card,120
+ORD1231,Sandra Lang,Keyboard,Accessories,1,50,31/12/2024,Soma,Bank Transfer,50
+ORD1232,Sara Banks,Monitor,Electronics,2,200,07/10/2024,Soma,Credit Card,400
+ORD1233,Sydney Rivera,Headphones,Accessories,2,100,24/01/2025,Brikama,Credit Card,200
+ORD1234,Sydney Mcpherson,Headphones,Accessories,1,100,05/07/2024,Kanifing,Mobile Money,100
+ORD1235,Manuel Guerra,Monitor,Electronics,4,200,30/01/2025,Banjul,Bank Transfer,800
+ORD1236,Justin Cowan,Mouse,Accessories,3,30,07/08/2024,Brikama,Credit Card,90
+ORD1237,James Lopez,Monitor,Electronics,1,200,10/11/2024,Basse,Credit Card,200
+ORD1238,Aaron Burke,Mouse,Accessories,1,30,16/01/2025,Soma,Cash on Delivery,30
+ORD1239,Alicia Esparza,Headphones,Accessories,5,100,02/12/2024,Brikama,Cash on Delivery,500
+ORD1240,Angela Lane,Phone,Electronics,1,400,07/02/2025,Basse,Mobile Money,400
+ORD1241,Sharon Jones,Monitor,Electronics,3,200,14/02/2025,Kanifing,Credit Card,600
+ORD1242,Thomas Galloway,Mouse,Accessories,4,30,17/03/2025,Soma,Credit Card,120
+ORD1243,Timothy Ross,Phone,Electronics,4,400,19/10/2024,Basse,Bank Transfer,1600
+ORD1244,Angela Meza,Keyboard,Accessories,4,50,10/06/2025,Kanifing,Cash on Delivery,200
+ORD1245,Martin Rowe,Tablet,Electronics,2,300,09/09/2024,Banjul,Bank Transfer,600
+ORD1246,Matthew Jarvis,Laptop,Electronics,3,700,01/11/2024,Brikama,Bank Transfer,2100
+ORD1247,Mr. Richard Gaines,Monitor,Electronics,3,200,05/01/2025,Basse,Mobile Money,600
+ORD1248,Michael Jordan,Monitor,Electronics,4,200,09/08/2024,Soma,Cash on Delivery,800
+ORD1249,Alicia King,Phone,Electronics,4,400,13/04/2025,Kanifing,Cash on Delivery,1600
+ORD1250,Sarah Waller,Tablet,Electronics,3,300,28/07/2024,Kanifing,Bank Transfer,900
+ORD1251,Summer Figueroa,Keyboard,Accessories,1,50,02/01/2025,Basse,Credit Card,50
+ORD1252,Michelle Bonilla,Headphones,Accessories,3,100,21/12/2024,Soma,Cash on Delivery,300
+ORD1253,Eric Hickman,Keyboard,Accessories,2,50,10/05/2025,Kanifing,Cash on Delivery,100
+ORD1254,Carl Malone,Laptop,Electronics,3,700,08/07/2024,Kanifing,Cash on Delivery,2100
+ORD1255,Danielle Moody,Phone,Electronics,3,400,01/09/2024,Banjul,Mobile Money,1200
+ORD1256,Cindy Tran,Monitor,Electronics,4,200,04/07/2024,Brikama,Cash on Delivery,800
+ORD1257,Mrs. Jennifer Chapman,Headphones,Accessories,4,100,19/09/2024,Banjul,Credit Card,400
+ORD1258,Makayla Brown,Mouse,Accessories,3,30,15/03/2025,Basse,Credit Card,90
+ORD1259,Kyle Alexander,Monitor,Electronics,5,200,25/09/2024,Brikama,Bank Transfer,1000
+ORD1260,Molly Molina,Headphones,Accessories,5,100,23/01/2025,Banjul,Credit Card,500
+ORD1261,Valerie Solis,Headphones,Accessories,1,100,24/07/2024,Soma,Mobile Money,100
+ORD1262,Bryan Barr,Monitor,Electronics,3,200,27/03/2025,Kanifing,Cash on Delivery,600
+ORD1263,Teresa Reed,Headphones,Accessories,2,100,25/08/2024,Kanifing,Bank Transfer,200
+ORD1264,Wendy Williams,Phone,Electronics,4,400,07/11/2024,Kanifing,Bank Transfer,1600
+ORD1265,Richard Ellis,Laptop,Electronics,5,700,23/09/2024,Banjul,Cash on Delivery,3500
+ORD1266,Tiffany Lynn,Tablet,Electronics,5,300,24/12/2024,Kanifing,Credit Card,1500
+ORD1267,Travis Peck,Laptop,Electronics,1,700,14/09/2024,Kanifing,Bank Transfer,700
+ORD1268,Gregory Jones,Keyboard,Accessories,3,50,22/08/2024,Banjul,Mobile Money,150
+ORD1269,Daniel Perkins,Keyboard,Accessories,2,50,07/04/2025,Banjul,Credit Card,100
+ORD1270,Diana Stanley,Monitor,Electronics,3,200,07/06/2025,Banjul,Mobile Money,600
+ORD1271,Ronald Thompson,Laptop,Electronics,5,700,21/08/2024,Basse,Mobile Money,3500
+ORD1272,Linda Hays,Monitor,Electronics,3,200,01/05/2025,Kanifing,Cash on Delivery,600
+ORD1273,Christina Martin,Mouse,Accessories,5,30,13/08/2024,Banjul,Mobile Money,150
+ORD1274,Joshua White,Monitor,Electronics,4,200,20/07/2024,Basse,Mobile Money,800
+ORD1275,Erika Rollins,Phone,Electronics,4,400,17/04/2025,Soma,Mobile Money,1600
+ORD1276,Todd Powers,Monitor,Electronics,1,200,11/03/2025,Basse,Credit Card,200
+ORD1277,Stephen Morris,Tablet,Electronics,2,300,21/01/2025,Kanifing,Mobile Money,600
+ORD1278,Todd Vang,Headphones,Accessories,1,100,12/08/2024,Brikama,Mobile Money,100
+ORD1279,Erin Lee,Monitor,Electronics,1,200,17/05/2025,Kanifing,Mobile Money,200
+ORD1280,Erica Payne,Keyboard,Accessories,1,50,20/03/2025,Banjul,Bank Transfer,50
+ORD1281,Anna Weeks,Phone,Electronics,4,400,06/03/2025,Kanifing,Credit Card,1600
+ORD1282,Aaron Burnett,Tablet,Electronics,5,300,30/03/2025,Kanifing,Mobile Money,1500
+ORD1283,Pamela Williams,Tablet,Electronics,4,300,03/06/2025,Kanifing,Cash on Delivery,1200
+ORD1284,Joseph Davis,Monitor,Electronics,1,200,24/08/2024,Basse,Bank Transfer,200
+ORD1285,Phillip Dominguez,Tablet,Electronics,2,300,31/08/2024,Brikama,Cash on Delivery,600
+ORD1286,Kristin Miller,Phone,Electronics,1,400,08/03/2025,Brikama,Mobile Money,400
+ORD1287,Lori Cruz,Mouse,Accessories,1,30,06/06/2025,Banjul,Bank Transfer,30
+ORD1288,Mary Hall,Laptop,Electronics,2,700,27/09/2024,Banjul,Mobile Money,1400
+ORD1289,Debbie Neal,Monitor,Electronics,4,200,07/08/2024,Kanifing,Cash on Delivery,800
+ORD1290,Steven Butler,Mouse,Accessories,4,30,06/12/2024,Soma,Cash on Delivery,120
+ORD1291,David Chang,Tablet,Electronics,5,300,07/02/2025,Brikama,Cash on Delivery,1500
+ORD1292,Mark Bernard MD,Tablet,Electronics,1,300,08/06/2025,Basse,Credit Card,300
+ORD1293,Melissa Perez,Phone,Electronics,5,400,06/12/2024,Kanifing,Cash on Delivery,2000
+ORD1294,Charles Grimes,Keyboard,Accessories,3,50,28/03/2025,Kanifing,Cash on Delivery,150
+ORD1295,William Hawkins,Laptop,Electronics,1,700,22/11/2024,Kanifing,Cash on Delivery,700
+ORD1296,Jessica Copeland,Mouse,Accessories,2,30,30/04/2025,Brikama,Credit Card,60
+ORD1297,Pamela Valentine,Monitor,Electronics,4,200,12/05/2025,Brikama,Credit Card,800
+ORD1298,Jeffrey Hayes,Phone,Electronics,5,400,10/09/2024,Banjul,Cash on Delivery,2000
+ORD1299,Brittany Carpenter,Monitor,Electronics,5,200,23/12/2024,Soma,Mobile Money,1000
+ORD1300,Sabrina Silva,Monitor,Electronics,2,200,31/03/2025,Banjul,Credit Card,400
+ORD1301,Patricia Mann,Monitor,Electronics,2,200,03/12/2024,Banjul,Mobile Money,400
+ORD1302,Samantha Burnett MD,Laptop,Electronics,1,700,03/10/2024,Brikama,Cash on Delivery,700
+ORD1303,Fernando Anderson,Tablet,Electronics,1,300,11/05/2025,Brikama,Credit Card,300
+ORD1304,Mary Tucker,Laptop,Electronics,2,700,25/12/2024,Brikama,Bank Transfer,1400
+ORD1305,Christopher Morris,Tablet,Electronics,1,300,09/10/2024,Basse,Credit Card,300
+ORD1306,Vincent Wright,Tablet,Electronics,4,300,21/09/2024,Soma,Cash on Delivery,1200
+ORD1307,Shannon Davis,Laptop,Electronics,4,700,30/04/2025,Kanifing,Cash on Delivery,2800
+ORD1308,Jim Reese,Mouse,Accessories,3,30,31/03/2025,Banjul,Cash on Delivery,90
+ORD1309,Dawn Cooper,Monitor,Electronics,4,200,03/11/2024,Kanifing,Bank Transfer,800
+ORD1310,Adam Butler,Tablet,Electronics,3,300,24/01/2025,Brikama,Bank Transfer,900
+ORD1311,Rodney Simmons,Keyboard,Accessories,3,50,31/08/2024,Kanifing,Credit Card,150
+ORD1312,Jacob Summers,Monitor,Electronics,3,200,30/12/2024,Soma,Cash on Delivery,600
+ORD1313,Antonio Fuller,Laptop,Electronics,5,700,03/08/2024,Soma,Bank Transfer,3500
+ORD1314,Jason Hays,Phone,Electronics,2,400,28/02/2025,Soma,Cash on Delivery,800
+ORD1315,Brandy Chen,Headphones,Accessories,2,100,05/09/2024,Banjul,Credit Card,200
+ORD1316,Alexis Johnson,Laptop,Electronics,1,700,30/10/2024,Soma,Mobile Money,700
+ORD1317,Todd Long,Tablet,Electronics,2,300,24/11/2024,Brikama,Mobile Money,600
+ORD1318,Keith Tate,Keyboard,Accessories,1,50,02/07/2024,Basse,Credit Card,50
+ORD1319,Patrick Moody,Headphones,Accessories,3,100,20/02/2025,Banjul,Credit Card,300
+ORD1320,James Gutierrez,Tablet,Electronics,5,300,30/11/2024,Soma,Bank Transfer,1500
+ORD1321,Lauren Peters,Headphones,Accessories,3,100,16/02/2025,Soma,Mobile Money,300
+ORD1322,Patricia Johnson,Monitor,Electronics,5,200,22/11/2024,Soma,Cash on Delivery,1000
+ORD1323,Meghan Coleman,Mouse,Accessories,4,30,14/01/2025,Basse,Credit Card,120
+ORD1324,Michael Diaz,Phone,Electronics,3,400,10/09/2024,Banjul,Mobile Money,1200
+ORD1325,Erika Sanchez,Tablet,Electronics,4,300,07/11/2024,Kanifing,Cash on Delivery,1200
+ORD1326,Jessica Bernard,Laptop,Electronics,4,700,23/08/2024,Brikama,Bank Transfer,2800
+ORD1327,Thomas Hawkins,Mouse,Accessories,3,30,24/02/2025,Basse,Mobile Money,90
+ORD1328,Shannon Torres,Laptop,Electronics,4,700,06/07/2024,Kanifing,Cash on Delivery,2800
+ORD1329,Kathryn Whitney,Monitor,Electronics,3,200,31/08/2024,Banjul,Cash on Delivery,600
+ORD1330,Tyler Hill,Phone,Electronics,2,400,21/03/2025,Banjul,Cash on Delivery,800
+ORD1331,Laura Carson,Headphones,Accessories,4,100,16/01/2025,Basse,Mobile Money,400
+ORD1332,Robin Hardin,Phone,Electronics,4,400,13/03/2025,Banjul,Credit Card,1600
+ORD1333,Linda Brown,Mouse,Accessories,2,30,26/02/2025,Banjul,Cash on Delivery,60
+ORD1334,Joshua Dawson,Tablet,Electronics,1,300,15/04/2025,Brikama,Mobile Money,300
+ORD1335,Lauren Rhodes,Keyboard,Accessories,1,50,02/11/2024,Brikama,Cash on Delivery,50
+ORD1336,Charles Vaughn,Headphones,Accessories,5,100,02/05/2025,Soma,Credit Card,500
+ORD1337,Cheryl Sanchez,Keyboard,Accessories,1,50,28/09/2024,Basse,Cash on Delivery,50
+ORD1338,Peter Price,Laptop,Electronics,1,700,19/06/2025,Brikama,Bank Transfer,700
+ORD1339,Mrs. Jacqueline Acosta,Keyboard,Accessories,5,50,24/03/2025,Soma,Cash on Delivery,250
+ORD1340,Matthew Pena,Laptop,Electronics,3,700,12/05/2025,Soma,Mobile Money,2100
+ORD1341,Mr. Derrick Salazar,Laptop,Electronics,2,700,14/02/2025,Basse,Mobile Money,1400
+ORD1342,James Cantu,Mouse,Accessories,5,30,05/03/2025,Soma,Mobile Money,150
+ORD1343,Jennifer Carroll,Monitor,Electronics,2,200,20/12/2024,Basse,Cash on Delivery,400
+ORD1344,Aaron Becker,Keyboard,Accessories,3,50,20/08/2024,Soma,Credit Card,150
+ORD1345,Andrew Barnes,Phone,Electronics,5,400,04/12/2024,Brikama,Mobile Money,2000
+ORD1346,Angela Dougherty,Laptop,Electronics,5,700,06/11/2024,Brikama,Credit Card,3500
+ORD1347,Lori Mayer,Keyboard,Accessories,5,50,27/08/2024,Brikama,Mobile Money,250
+ORD1348,Tamara Butler,Mouse,Accessories,2,30,30/01/2025,Kanifing,Credit Card,60
+ORD1349,Glenn Miranda,Headphones,Accessories,5,100,29/08/2024,Brikama,Mobile Money,500
+ORD1350,Sandra Gonzalez,Monitor,Electronics,3,200,30/11/2024,Banjul,Cash on Delivery,600
+ORD1351,Chelsey Ingram,Monitor,Electronics,2,200,29/03/2025,Brikama,Bank Transfer,400
+ORD1352,Jennifer Morales,Laptop,Electronics,2,700,21/11/2024,Kanifing,Bank Transfer,1400
+ORD1353,Todd Berry,Headphones,Accessories,4,100,11/12/2024,Banjul,Credit Card,400
+ORD1354,Anthony Hill,Phone,Electronics,1,400,03/06/2025,Kanifing,Mobile Money,400
+ORD1355,Daniel Kirby,Laptop,Electronics,4,700,28/05/2025,Banjul,Cash on Delivery,2800
+ORD1356,Rachel Grimes,Tablet,Electronics,1,300,04/10/2024,Brikama,Mobile Money,300
+ORD1357,John Green,Laptop,Electronics,3,700,28/07/2024,Basse,Credit Card,2100
+ORD1358,Regina Summers,Keyboard,Accessories,4,50,28/02/2025,Banjul,Mobile Money,200
+ORD1359,Ronnie Jackson,Laptop,Electronics,3,700,23/01/2025,Kanifing,Cash on Delivery,2100
+ORD1360,Brittany Wells,Keyboard,Accessories,3,50,08/08/2024,Banjul,Cash on Delivery,150
+ORD1361,Crystal Robles,Laptop,Electronics,1,700,14/10/2024,Soma,Bank Transfer,700
+ORD1362,Angela Silva,Headphones,Accessories,3,100,10/07/2024,Basse,Bank Transfer,300
+ORD1363,Amanda Nguyen,Tablet,Electronics,2,300,21/10/2024,Soma,Bank Transfer,600
+ORD1364,Stephanie Rodriguez,Phone,Electronics,5,400,25/06/2025,Basse,Credit Card,2000
+ORD1365,Tammy Garcia,Monitor,Electronics,2,200,06/05/2025,Kanifing,Mobile Money,400
+ORD1366,Sandra Sanders,Keyboard,Accessories,2,50,07/06/2025,Brikama,Credit Card,100
+ORD1367,Austin Clark,Phone,Electronics,1,400,02/07/2024,Brikama,Credit Card,400
+ORD1368,Jeffery Miller,Keyboard,Accessories,1,50,19/04/2025,Brikama,Bank Transfer,50
+ORD1369,Jacqueline Oliver,Laptop,Electronics,5,700,06/07/2024,Brikama,Cash on Delivery,3500
+ORD1370,Tina Wilson,Laptop,Electronics,2,700,07/07/2024,Basse,Mobile Money,1400
+ORD1371,Adam Moore,Phone,Electronics,2,400,13/05/2025,Kanifing,Bank Transfer,800
+ORD1372,Gerald Watkins,Phone,Electronics,5,400,20/07/2024,Banjul,Cash on Delivery,2000
+ORD1373,Audrey Clark,Keyboard,Accessories,3,50,31/07/2024,Brikama,Mobile Money,150
+ORD1374,Richard Knapp,Keyboard,Accessories,1,50,04/02/2025,Soma,Credit Card,50
+ORD1375,Sarah Kidd PhD,Keyboard,Accessories,3,50,10/06/2025,Brikama,Bank Transfer,150
+ORD1376,Kristen Henry,Tablet,Electronics,3,300,16/09/2024,Brikama,Cash on Delivery,900
+ORD1377,Tammy Merritt,Laptop,Electronics,2,700,08/10/2024,Soma,Credit Card,1400
+ORD1378,Dawn Buck,Headphones,Accessories,2,100,26/12/2024,Brikama,Credit Card,200
+ORD1379,Deborah Jackson,Headphones,Accessories,4,100,15/09/2024,Soma,Cash on Delivery,400
+ORD1380,Alexander Rice,Headphones,Accessories,5,100,06/05/2025,Brikama,Mobile Money,500
+ORD1381,Paula Morris,Laptop,Electronics,3,700,05/07/2024,Basse,Mobile Money,2100
+ORD1382,Jaime Medina,Monitor,Electronics,3,200,24/11/2024,Kanifing,Credit Card,600
+ORD1383,William Maxwell,Monitor,Electronics,2,200,18/08/2024,Banjul,Cash on Delivery,400
+ORD1384,Laurie Marsh,Tablet,Electronics,4,300,02/06/2025,Basse,Credit Card,1200
+ORD1385,Theresa Hernandez,Monitor,Electronics,4,200,20/07/2024,Banjul,Mobile Money,800
+ORD1386,Kelly Levine,Tablet,Electronics,3,300,21/10/2024,Kanifing,Credit Card,900
+ORD1387,Diane Adkins,Keyboard,Accessories,1,50,20/04/2025,Brikama,Mobile Money,50
+ORD1388,John Jordan,Headphones,Accessories,2,100,31/01/2025,Soma,Credit Card,200
+ORD1389,Katherine Baker,Phone,Electronics,1,400,08/04/2025,Kanifing,Bank Transfer,400
+ORD1390,Richard Dixon,Monitor,Electronics,3,200,24/05/2025,Kanifing,Cash on Delivery,600
+ORD1391,Ronald Tate,Laptop,Electronics,5,700,22/06/2025,Soma,Cash on Delivery,3500
+ORD1392,Haley Solomon,Tablet,Electronics,4,300,22/06/2025,Kanifing,Cash on Delivery,1200
+ORD1393,Isabella Cortez DDS,Laptop,Electronics,1,700,29/09/2024,Kanifing,Cash on Delivery,700
+ORD1394,Stacy Hamilton,Monitor,Electronics,3,200,15/12/2024,Banjul,Cash on Delivery,600
+ORD1395,Brenda Taylor,Phone,Electronics,3,400,16/02/2025,Brikama,Bank Transfer,1200
+ORD1396,Thomas Johnson,Tablet,Electronics,5,300,03/09/2024,Soma,Bank Transfer,1500
+ORD1397,Tyler Clark,Headphones,Accessories,5,100,07/05/2025,Basse,Mobile Money,500
+ORD1398,Stephanie Rogers,Laptop,Electronics,5,700,23/07/2024,Banjul,Mobile Money,3500
+ORD1399,Juan Lopez,Laptop,Electronics,4,700,05/07/2024,Basse,Cash on Delivery,2800
+ORD1400,Olivia Beck,Phone,Electronics,2,400,01/09/2024,Basse,Mobile Money,800
+ORD1401,Melanie Palmer,Tablet,Electronics,5,300,08/11/2024,Brikama,Cash on Delivery,1500
+ORD1402,Richard Giles,Keyboard,Accessories,5,50,16/10/2024,Banjul,Bank Transfer,250
+ORD1403,Austin Smith,Phone,Electronics,5,400,29/12/2024,Brikama,Credit Card,2000
+ORD1404,Jacob Cook,Headphones,Accessories,3,100,02/08/2024,Soma,Bank Transfer,300
+ORD1405,Hunter Obrien,Headphones,Accessories,2,100,27/08/2024,Banjul,Mobile Money,200
+ORD1406,Caroline Frey,Keyboard,Accessories,5,50,15/11/2024,Brikama,Cash on Delivery,250
+ORD1407,Barbara Walls,Headphones,Accessories,1,100,22/11/2024,Kanifing,Credit Card,100
+ORD1408,Jeffrey Vaughn,Laptop,Electronics,3,700,10/12/2024,Brikama,Mobile Money,2100
+ORD1409,Michael Jensen,Mouse,Accessories,1,30,01/08/2024,Banjul,Mobile Money,30
+ORD1410,Brenda Smith,Monitor,Electronics,3,200,18/02/2025,Soma,Credit Card,600
+ORD1411,Casey Harrington,Mouse,Accessories,3,30,22/03/2025,Kanifing,Bank Transfer,90
+ORD1412,Chad Cunningham,Mouse,Accessories,4,30,13/07/2024,Brikama,Cash on Delivery,120
+ORD1413,Sabrina Jacobs,Phone,Electronics,5,400,25/03/2025,Kanifing,Bank Transfer,2000
+ORD1414,John Hill,Phone,Electronics,2,400,06/04/2025,Kanifing,Mobile Money,800
+ORD1415,Kristen Ball,Laptop,Electronics,1,700,26/12/2024,Kanifing,Cash on Delivery,700
+ORD1416,Ryan Odom,Tablet,Electronics,2,300,26/01/2025,Banjul,Credit Card,600
+ORD1417,Richard Allen,Tablet,Electronics,1,300,01/06/2025,Kanifing,Mobile Money,300
+ORD1418,Marvin Hernandez,Mouse,Accessories,3,30,08/10/2024,Brikama,Credit Card,90
+ORD1419,Mary Tate,Mouse,Accessories,1,30,27/11/2024,Banjul,Bank Transfer,30
+ORD1420,Jessica Gillespie,Laptop,Electronics,5,700,16/06/2025,Soma,Cash on Delivery,3500
+ORD1421,Mr. Michael Velez,Laptop,Electronics,1,700,20/10/2024,Basse,Mobile Money,700
+ORD1422,Tammy Smith,Phone,Electronics,5,400,01/12/2024,Basse,Mobile Money,2000
+ORD1423,Steven Rich,Monitor,Electronics,3,200,28/07/2024,Soma,Mobile Money,600
+ORD1424,Patricia Hawkins,Keyboard,Accessories,5,50,29/08/2024,Banjul,Bank Transfer,250
+ORD1425,Valerie Hardy,Phone,Electronics,5,400,29/04/2025,Brikama,Bank Transfer,2000
+ORD1426,Amy Richardson,Headphones,Accessories,3,100,03/09/2024,Soma,Credit Card,300
+ORD1427,Scott Harrison,Keyboard,Accessories,3,50,13/04/2025,Brikama,Credit Card,150
+ORD1428,Emily Alvarez,Tablet,Electronics,3,300,14/10/2024,Soma,Credit Card,900
+ORD1429,Lori Martinez,Laptop,Electronics,3,700,18/02/2025,Banjul,Cash on Delivery,2100
+ORD1430,Patrick Collins,Mouse,Accessories,4,30,01/04/2025,Soma,Cash on Delivery,120
+ORD1431,Heather Nelson,Keyboard,Accessories,5,50,13/06/2025,Soma,Credit Card,250
+ORD1432,Evan Johnson,Mouse,Accessories,2,30,30/12/2024,Kanifing,Bank Transfer,60
+ORD1433,Dawn Smith,Mouse,Accessories,1,30,23/02/2025,Banjul,Mobile Money,30
+ORD1434,Sharon Salinas,Headphones,Accessories,4,100,09/03/2025,Basse,Cash on Delivery,400
+ORD1435,Dr. Kurt Pollard,Tablet,Electronics,3,300,19/08/2024,Soma,Cash on Delivery,900
+ORD1436,Joshua Ramsey,Laptop,Electronics,1,700,21/08/2024,Basse,Mobile Money,700
+ORD1437,Todd Mack,Tablet,Electronics,2,300,22/05/2025,Brikama,Credit Card,600
+ORD1438,Jason White II,Headphones,Accessories,3,100,21/02/2025,Kanifing,Bank Transfer,300
+ORD1439,Ryan Patton,Tablet,Electronics,5,300,24/06/2025,Brikama,Mobile Money,1500
+ORD1440,Raymond Smith,Tablet,Electronics,3,300,21/09/2024,Soma,Bank Transfer,900
+ORD1441,Sharon Valdez,Phone,Electronics,3,400,03/11/2024,Kanifing,Credit Card,1200
+ORD1442,Jennifer Travis,Laptop,Electronics,2,700,28/11/2024,Kanifing,Bank Transfer,1400
+ORD1443,Jennifer Alexander,Mouse,Accessories,3,30,01/02/2025,Basse,Mobile Money,90
+ORD1444,Gwendolyn Cook,Headphones,Accessories,3,100,29/12/2024,Soma,Bank Transfer,300
+ORD1445,Elizabeth Baker,Phone,Electronics,3,400,07/12/2024,Banjul,Mobile Money,1200
+ORD1446,Jennifer Pacheco,Keyboard,Accessories,4,50,23/11/2024,Basse,Bank Transfer,200
+ORD1447,Patricia Boyd,Laptop,Electronics,3,700,17/09/2024,Brikama,Mobile Money,2100
+ORD1448,Taylor Steele,Monitor,Electronics,3,200,10/06/2025,Brikama,Mobile Money,600
+ORD1449,Erika Holloway,Keyboard,Accessories,3,50,09/06/2025,Kanifing,Cash on Delivery,150
+ORD1450,Dean Gardner,Tablet,Electronics,3,300,02/03/2025,Kanifing,Cash on Delivery,900
+ORD1451,Jennifer Salazar,Tablet,Electronics,2,300,12/04/2025,Kanifing,Bank Transfer,600
+ORD1452,Steven Ramirez,Laptop,Electronics,2,700,12/12/2024,Basse,Credit Card,1400
+ORD1453,Steven Boyd,Headphones,Accessories,1,100,22/10/2024,Banjul,Mobile Money,100
+ORD1454,Brooke Newman,Tablet,Electronics,3,300,01/05/2025,Basse,Bank Transfer,900
+ORD1455,Douglas Bradshaw,Tablet,Electronics,5,300,19/07/2024,Banjul,Credit Card,1500
+ORD1456,Brittany Armstrong,Phone,Electronics,3,400,11/03/2025,Banjul,Mobile Money,1200
+ORD1457,Richard Murray,Laptop,Electronics,5,700,07/07/2024,Kanifing,Mobile Money,3500
+ORD1458,Sophia Harris,Mouse,Accessories,5,30,07/05/2025,Soma,Cash on Delivery,150
+ORD1459,Jonathan Sosa,Headphones,Accessories,2,100,28/11/2024,Basse,Mobile Money,200
+ORD1460,Brian Ramirez,Phone,Electronics,2,400,18/06/2025,Banjul,Cash on Delivery,800
+ORD1461,Matthew Hicks,Tablet,Electronics,2,300,15/08/2024,Basse,Bank Transfer,600
+ORD1462,Carrie James,Phone,Electronics,2,400,29/05/2025,Soma,Credit Card,800
+ORD1463,Mr. George Peterson,Phone,Electronics,3,400,01/09/2024,Brikama,Credit Card,1200
+ORD1464,Michael Arnold,Monitor,Electronics,5,200,05/03/2025,Kanifing,Cash on Delivery,1000
+ORD1465,Dylan Moreno,Laptop,Electronics,2,700,07/05/2025,Soma,Cash on Delivery,1400
+ORD1466,Deborah Alvarez,Monitor,Electronics,4,200,24/08/2024,Basse,Credit Card,800
+ORD1467,Monica Cole,Keyboard,Accessories,5,50,14/04/2025,Basse,Cash on Delivery,250
+ORD1468,Sarah Stone,Tablet,Electronics,5,300,26/02/2025,Brikama,Credit Card,1500
+ORD1469,Erika Solis,Laptop,Electronics,2,700,09/06/2025,Basse,Bank Transfer,1400
+ORD1470,Michael Ellis,Tablet,Electronics,4,300,18/06/2025,Banjul,Cash on Delivery,1200
+ORD1471,Victoria Doyle,Monitor,Electronics,1,200,17/07/2024,Brikama,Mobile Money,200
+ORD1472,Lisa Cortez,Headphones,Accessories,2,100,10/08/2024,Basse,Bank Transfer,200
+ORD1473,John Weaver,Phone,Electronics,4,400,26/11/2024,Basse,Cash on Delivery,1600
+ORD1474,Megan Edwards,Keyboard,Accessories,4,50,26/09/2024,Kanifing,Credit Card,200
+ORD1475,Kenneth Jones,Tablet,Electronics,5,300,31/12/2024,Kanifing,Cash on Delivery,1500
+ORD1476,Margaret Lucas,Keyboard,Accessories,1,50,05/02/2025,Kanifing,Cash on Delivery,50
+ORD1477,Brandy Clark,Laptop,Electronics,2,700,26/04/2025,Basse,Mobile Money,1400
+ORD1478,Mrs. Catherine Garza,Mouse,Accessories,4,30,17/08/2024,Kanifing,Mobile Money,120
+ORD1479,Linda Mendoza,Headphones,Accessories,2,100,01/12/2024,Banjul,Bank Transfer,200
+ORD1480,David Phillips,Keyboard,Accessories,5,50,20/08/2024,Banjul,Bank Transfer,250
+ORD1481,Cheryl Ware,Tablet,Electronics,2,300,23/11/2024,Banjul,Bank Transfer,600
+ORD1482,Terry Vang,Phone,Electronics,1,400,24/12/2024,Kanifing,Credit Card,400
+ORD1483,Brian Fox,Phone,Electronics,1,400,13/06/2025,Brikama,Cash on Delivery,400
+ORD1484,Bonnie Lynn,Mouse,Accessories,3,30,22/06/2025,Soma,Cash on Delivery,90
+ORD1485,Paula Adams,Tablet,Electronics,4,300,16/08/2024,Kanifing,Bank Transfer,1200
+ORD1486,Richard Copeland,Mouse,Accessories,2,30,14/06/2025,Basse,Cash on Delivery,60
+ORD1487,Thomas Donovan,Laptop,Electronics,5,700,19/02/2025,Basse,Mobile Money,3500
+ORD1488,Michael Saunders,Mouse,Accessories,5,30,10/02/2025,Soma,Credit Card,150
+ORD1489,David Cooper,Phone,Electronics,3,400,11/03/2025,Kanifing,Credit Card,1200
+ORD1490,Jennifer Ortega PhD,Keyboard,Accessories,2,50,10/03/2025,Basse,Cash on Delivery,100
+ORD1491,Andrew Edwards,Keyboard,Accessories,1,50,14/02/2025,Kanifing,Cash on Delivery,50
+ORD1492,Joseph Wiggins,Keyboard,Accessories,4,50,11/07/2024,Banjul,Cash on Delivery,200
+ORD1493,Roy Valdez,Laptop,Electronics,5,700,08/01/2025,Banjul,Credit Card,3500
+ORD1494,Shaun James,Mouse,Accessories,5,30,19/10/2024,Kanifing,Mobile Money,150
+ORD1495,Kimberly Davis,Headphones,Accessories,5,100,31/10/2024,Brikama,Bank Transfer,500
+ORD1496,Lori Grimes,Phone,Electronics,4,400,14/05/2025,Basse,Bank Transfer,1600
+ORD1497,Kimberly Rivers,Mouse,Accessories,3,30,30/06/2025,Kanifing,Mobile Money,90
+ORD1498,Jessica Quinn,Tablet,Electronics,4,300,28/11/2024,Soma,Bank Transfer,1200
+ORD1499,Crystal Joseph,Keyboard,Accessories,2,50,25/09/2024,Brikama,Credit Card,100
